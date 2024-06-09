@@ -1,0 +1,7 @@
+{
+  "/api": {
+    "target": "https://apis.digital.gob.cl/fl/feriados",
+    "secure": false,
+    "changeOrigin": true
+  }
+}
